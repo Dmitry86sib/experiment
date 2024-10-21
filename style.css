@@ -1,9 +1,6 @@
-* {
-  color: white;
-  font-family: 'Gill Sans', sans-serif;
-}
-
 body {
-  color: wheat;
-  width: 200px;
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
